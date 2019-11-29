@@ -1,0 +1,21 @@
+{
+  "name": "github-graphql-node-api-example",
+  "version": "1.0.0",
+  "description": "github api using graphql example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurangzaib",
+  "keywords": [
+    "Github",
+    "GraphQL",
+    "PinnedPost",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
